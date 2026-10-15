@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuickBlink</string>
+    <string name="tagline">Instamart Grocery in 10 mins</string>
+    <string name="delivery_estimate">Delivery in 11 Mins</string>
+    <string name="default_location">Koramanagala, 4th Block, Bengaluru</string>
+    <string name="search_hint">Search "milk, eggs, chips, coke..."</string>
+    <string name="view_cart">View Cart</string>
+    <string name="place_order">Slide to Place Order</string>
+    <string name="order_placed">Order Placed Successfully!</string>
+</resources>

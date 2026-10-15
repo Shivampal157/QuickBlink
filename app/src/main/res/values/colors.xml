@@ -1,0 +1,13 @@
+<resources>
+    <color name="purple_instamart">#5A2D82</color>
+    <color name="purple_instamart_dark">#3C185A</color>
+    <color name="swiggy_orange">#FC8019</color>
+    <color name="swiggy_orange_dark">#D7680D</color>
+    <color name="instamart_green">#1BA672</color>
+    <color name="instamart_yellow">#FFC72C</color>
+    <color name="background_light">#F6F7FB</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="text_primary">#1C1C1C</color>
+    <color name="text_secondary">#7E808C</color>
+    <color name="border_light">#EAECEF</color>
+</resources>
